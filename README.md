@@ -23,7 +23,7 @@ I Am From Rajshahi </h1>
 
 - 📫 How to reach me **tanvirporos1@gmail.com**
 
-- 📄 Know about my experiences [HTML, CSS, JS Database - MySQL, SQlite, Microsoft SQL Server. Version Control System - Git Networking Basics Ip Networking Network Administration Configuration andTroubleshooting Implementing LAN & WAN connections using Routing & Switches. Windows Linux os Teamwork Project Management Printer Setup Router Setup Communication Skill](HTML, CSS, JS Database - MySQL, SQlite, Microsoft SQL Server. Version Control System - Git Networking Basics Ip Networking Network Administration Configuration andTroubleshooting Implementing LAN & WAN connections using Routing & Switches. Windows Linux os Teamwork Project Management Printer Setup Router Setup Communication Skill)
+- 📄 Know about my experiences (HTML, CSS, JS Database - MySQL, SQlite, Microsoft SQL Server. Version Control System - Git Networking Basics Ip Networking Network Administration Configuration andTroubleshooting Implementing LAN & WAN connections using Routing & Switches. Windows Linux os Teamwork Project Management Printer Setup Router Setup Communication Skill)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
