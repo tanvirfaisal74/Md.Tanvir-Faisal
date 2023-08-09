@@ -22,7 +22,18 @@
 
 - 📫 How to reach me **tanvirporos1@gmail.com**
 
-- 📄 Know about my experiences (HTML, CSS, JS Database - MySQL, SQlite, Microsoft SQL Server. Version Control System - Git Networking Basics Ip Networking Network Administration Configuration andTroubleshooting Implementing LAN & WAN connections using Routing & Switches. Windows Linux os Teamwork Project Management Printer Setup Router Setup Communication Skill)
+- 📄 Know about my experiences (
+Manual Testing:Writing and Reviewing Test Cases,Requirement Analysis, Test Planning,Designing, Test Execution, Creating TestReport, Root Cause Analysis & Bug Reporting, Mind Map.
+API Testing Tool: Postman, Newman
+Performance Testing Tool: JMeter
+Web Automation Testing Tools:Selenium, Test Project
+Mobile App Automation Testing Tools:Appium,Test Project
+Security Testing Tool: Acunetix
+Database: MySQL (Query, Data Manipulatio)
+Project Management Tool: Jira
+Programming Language: JAVA, Python
+Source Control: Git
+Concepts: SDLC, STLC, OOP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
