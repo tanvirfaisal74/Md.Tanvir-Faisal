@@ -10,7 +10,7 @@
 
 - Hi 👋, I'm **Md.Tanvir Faisal**
 
-- 🌱 I’m currently learning **Networking Software Quality Assurance**
+- 🌱 I’m currently learning **Software Quality Assurance**
 
 - Cell **01609126777**
 
