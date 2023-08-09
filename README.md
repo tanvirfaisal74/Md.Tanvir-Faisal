@@ -14,7 +14,7 @@
 
 - Cell **01609126777**
 
-- Home **House 13, Avenue 1, Block 1, Mirpur 2, Dhaka**
+- Home **House 13, Avenue 1, Block A, Mirpur 2, Dhaka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanvirfaisal74](https://github.com/tanvirfaisal74)
 
